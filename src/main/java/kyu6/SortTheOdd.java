@@ -1,4 +1,4 @@
-package Kyu6;
+package kyu6;
 
 import java.util.*;
 import java.util.stream.IntStream;
