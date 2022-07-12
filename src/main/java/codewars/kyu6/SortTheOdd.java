@@ -1,4 +1,4 @@
-package kyu6;
+package codewars.kyu6;
 
 import java.util.*;
 import java.util.stream.IntStream;
